@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Soy estudiante de primer año del ciclo de grado superior en Desarrollo de Aplicaciones Web</h3>
+<h3 align="left">Soy estudiante de segundo año del ciclo de grado superior en Desarrollo de Aplicaciones Web</h3>
 
 ###
 
